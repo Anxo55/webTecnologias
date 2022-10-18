@@ -3,14 +3,14 @@
 }
 .item{
     list-style: none;
-    border: 1px solid blue;
+    border: 1px solid greenyellow;
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
 }
 .item a{
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: uppercase; 
 }
 .item :hover{
     background-color: lightcyan;
